@@ -1,2 +1,2 @@
-# Ciencia-y-anal-tica-de-datos
+# Ciencia-y-analitica-de-datos
 Ejercicios con resolución enfocados al aprendizaje del análisis de datos
